@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fenan-yosef&show_icons=true&locale=en&layout=compact" alt="fenan-yosef" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fenan-yosef&show_icons=true&locale=en" alt="fenan-yosef" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fenan-yosef&" alt="fenan-yosef" /></p>
