@@ -27,3 +27,5 @@
 
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=fenan-yosef&theme=transparent" alt="fenan-yosef" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=fenan-yosef&show_icons=true&theme=highcontrast"/></p>
