@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fenan-yosef&" alt="fenan-yosef" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=&theme=transparent" alt="fenan-yosef" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=fenan-yosef&theme=transparent" alt="fenan-yosef" /></p>
