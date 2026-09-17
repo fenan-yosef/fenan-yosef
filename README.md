@@ -1,4 +1,3 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fenan-yosef&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/fenan-yosef)
 
 <h3 align="center">A passionate full-stack developer from Ethiopia</h3>
 
